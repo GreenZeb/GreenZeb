@@ -3,6 +3,12 @@
 Welcome to my Github repositories! 
 I am software developer and here you will find some of my projects that shows my expertise in software development.
 
+## Skills
+
+✨Git · ✨C# · ✨.NET Framework · ✨Relational Databases & SQL · ✨HTTP & Web API Basics · ✨Unit Testing · ✨Test-Driven Development · ✨Clean Code, SOLID · ✨Design Patterns · ✨HTML & CSS, VueJS, TypeScript & NodeJS basics
+
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" weight="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" weight="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" weight="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" weight="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" weight="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" weight="50" height="50">
+
 <!--
 **GreenZeb/GreenZeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
