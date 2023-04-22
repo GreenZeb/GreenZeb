@@ -15,6 +15,13 @@ I am software developer and here you will find some of my projects that shows my
 * [Shopify-SQL](https://github.com/GreenZeb/SQL-Training) - application that enables businesses to connect their Shopify stores to a SQL database. The application requires expertise in Shopify API, SQL database management, and C# programming.
 * [Scooter Rental](https://github.com/GreenZeb/Codelex) - C# application that requires expertise in ASP.NET Core, C# programming, and database management. The application allows users to rent electric scooters for short-term use and tracks the availability of scooters and calculates payments. application can store flights between different airports and allows you to search them.
 
+## Soft skills:  
+* Strong problem-solving ability
+* Exceptional analytical skills
+* Excellent time management
+* Strong teamwork and collaboration
+* Adaptability to changing environments
+* Curious and eager to learn
 
 <!--
 **GreenZeb/GreenZeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
